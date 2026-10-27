@@ -16,6 +16,12 @@ I thought of this project when I was brainstorming with my friend (she was going
 
 ## How it Works
 It works by using infrared LED to show the veins in the arms. Infrared LED works by using a specific wavelength (800nm-850nm) to penetrate skin, tissues, etc. The device is very cost efficient which makes it practical for accessories in medical emergency kits. PLA is used to make the casing and it uses less than 100 grams of filament. The Vein finder also is a low cost device with less than $4 to make the whole thing that makes it practical for every family or medical students from around the world.
+
+## How to use it
+1. Turn on the device (there should be a switch)
+2. Aim the head to your arm or the targeted area
+3. You should be able to see veins from the hole gap on the head
+
 Documentations and Printing Specs
 
 <img width="959" height="481" alt="image" src="https://github.com/user-attachments/assets/2f1b7e16-d908-4c28-baba-e8bb08a758c8" />
