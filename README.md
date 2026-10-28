@@ -22,6 +22,9 @@ It works by using infrared LED to show the veins in the arms. Infrared LED works
 2. Aim the head to your arm or the targeted area
 3. You should be able to see veins from the hole gap on the head
 
+<img width="1600" height="1200" alt="HC SKETCH (1)" src="https://github.com/user-attachments/assets/a8e00dc3-5df8-406f-98ff-782bba43975e" />
+
+
 Documentations and Printing Specs
 
 <img width="959" height="481" alt="image" src="https://github.com/user-attachments/assets/2f1b7e16-d908-4c28-baba-e8bb08a758c8" />
