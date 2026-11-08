@@ -21,7 +21,7 @@ It works by using red LED to show the veins in the arms. The LED works by using 
 3. You should be able to see veins from the hole gap on the head
 
 Documentations and Printing Specs
-<img width="339" height="183" alt="image" src="https://github.com/user-attachments/assets/89cbd96c-1466-4017-b56b-fcae726da27b" />
+<img width="1600" height="1200" alt="HC SKETCH (12)" src="https://github.com/user-attachments/assets/49433747-e650-49ca-a0a9-f2bcf12761cf" />
 <img width="1273" height="489" alt="VEIN FINDER (3)" src="https://github.com/user-attachments/assets/af28690a-a423-4bd2-b268-0c93fc4e260a" />
 <img width="1273" height="489" alt="VEIN FINDER (4)" src="https://github.com/user-attachments/assets/02062070-51d8-47e8-9255-d46e5ea4590c" />
 <img width="1273" height="489" alt="VEIN FINDER (5)" src="https://github.com/user-attachments/assets/8bcbc933-8f32-4229-a113-61d30650317c" />
