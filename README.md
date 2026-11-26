@@ -21,6 +21,12 @@ It works by using red LED to show the veins in the arms. The LED works by using 
 3. You should be able to see veins from the hole gap on the head
 
 Documentations and Printing Specs
+<img width="1599" height="899" alt="WhatsApp Image 2026-11-26 at 21 02 33 (1)" src="https://github.com/user-attachments/assets/d39d78a2-dcb4-4f6f-a9a0-51607c07b08d" />
+<img width="1599" height="899" alt="WhatsApp Image 2026-11-26 at 21 02 33 (1)" src="https://github.com/user-attachments/assets/00ed58b2-b16a-4621-bf24-38ad5ab545d0" />
+<img width="1599" height="899" alt="WhatsApp Image 2026-11-26 at 21 01 40 (1)" src="https://github.com/user-attachments/assets/20696597-ffe4-4f08-9172-6a00904638c8" />
+
+<img width="1273" height="489" alt="VEIN FINDER (6)" src="https://github.com/user-attachments/assets/999c3fb7-a2a0-4c4c-a4bf-68c8964ae11a" />
+<img width="1273" height="489" alt="VEIN FINDER (7)" src="https://github.com/user-attachments/assets/78c59da9-ba96-4cab-a9f5-e872ea9571ce" />
 <img width="1600" height="1200" alt="HC SKETCH (12)" src="https://github.com/user-attachments/assets/49433747-e650-49ca-a0a9-f2bcf12761cf" />
 <img width="1273" height="489" alt="VEIN FINDER (3)" src="https://github.com/user-attachments/assets/af28690a-a423-4bd2-b268-0c93fc4e260a" />
 <img width="1273" height="489" alt="VEIN FINDER (4)" src="https://github.com/user-attachments/assets/02062070-51d8-47e8-9255-d46e5ea4590c" />
@@ -29,9 +35,8 @@ Documentations and Printing Specs
 
 3D Print and Project Result
 
-
-
 Demo Video
+https://youtube.com/shorts/n8ieYOGs4lE?feature=share<img width="1273" height="489" alt="VEIN FINDER (7)" src="https://github.com/user-attachments/assets/8e1c7d7d-d20c-44f8-99f1-890f8d45eb61" />
 
 
 
